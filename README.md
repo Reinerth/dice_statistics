@@ -1,0 +1,2 @@
+# dice_statistics
+I was curious to see what the probabilities of rolling a dice are,  depending on the number of attempts/trials.   With this little script we can see, quite good,  that the more often we roll the dice,  the lower is the difference of the probability  of the numbers of the dice, from one to six.   I used one of my favorite module patterns (Object-Literal-Pattern) for this,  which I use quite often in my scripts
