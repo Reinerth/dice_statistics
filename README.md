@@ -8,12 +8,13 @@ that the more often we roll the dice,
 the lower is the difference of the probability 
 of the numbers of the dice, from one to six. 
 
-I used one of my favorite module patterns (Object-Literal-Pattern) for this,  which I use quite often in my scripts.
+I used an Object-Literal-Pattern for this.
 
-**Usage:** Just open the file in *Edge* (Only tested with ***Microsoft Edge***) 
-enter in the *inputfield* the number of dice/attemps/trials 
-and click the button ***dice***
-
+**Usage:** <br>
+Just open the file in *Edge* (Only tested with ***Microsoft Edge***) <br>
+enter in the *inputfield* the number of dice/attemps/trials <br>
+and click the button ***dice*** <br>
+<br>
 **See screenshots below:**
 
 ![dice_statistics](https://user-images.githubusercontent.com/85163640/120376716-7edf5c00-c31c-11eb-9114-b6abf2eeaef8.jpg)
